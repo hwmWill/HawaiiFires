@@ -1,3 +1,15 @@
 hwFires/*
 
 data/*
+
+*.exe
+
+*.csv
+
+*.xlsx
+
+*.json
+
+*.zip
+
+parcelDamagedData*
